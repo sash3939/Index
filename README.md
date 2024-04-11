@@ -14,6 +14,7 @@ FROM
     information_schema.tables
 WHERE 
     table_schema = 'sakila';
+
 ---
 
 ### Задание 2
